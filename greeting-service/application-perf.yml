@@ -2,7 +2,7 @@ spring:
   application:
     name: greeting-service
 greeting-service:
-  greeting: "PERF - Olá"
+  greeting: "PERF - Wakalaka"
   default-value: "Mundo"
 management:
   endpoints:
